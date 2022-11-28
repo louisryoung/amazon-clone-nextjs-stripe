@@ -1,4 +1,4 @@
-# Amazon clone build
+# Amazon Clone
 
 Fully functional server side rendered Amazon clone with Stripe payment functionality with webhooks to fetch events to dispatch data from Stripe into Firebase firestore database, and with Redux as global state manager.
 
